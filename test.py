@@ -1,1 +1,3 @@
-print("Hej fr†n Blandat_Python") 
+print("Hej frÃ¥n Blandat_Python") 
+
+x = 5
