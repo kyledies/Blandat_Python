@@ -6,5 +6,5 @@ x = 5
 # OCH HÄR EN TILL KOMMENTAR
 
 y = 10
-def add(a, b):
-    return a + b
+def add(a, b, c):
+    return a + b + c
